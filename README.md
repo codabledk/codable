@@ -1,5 +1,3 @@
 # Codable IvS
 
-**Website for Codable.dk**
-
-**[Codable.dk](http://codable.dk)**
+* **CVR:** `39144875`
